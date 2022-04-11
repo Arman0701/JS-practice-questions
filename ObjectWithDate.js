@@ -8,6 +8,7 @@ const obj = {
 };
 
 Object.defineProperty(obj, "age", {
+    configurable: false,
     enumerable: false,
     writable: true,
 });
@@ -15,3 +16,4 @@ Object.defineProperty(obj, "age", {
 for (let i in obj) {
     console.log(i + " ::: " + obj[i]);
 }
+console.log(obj.age);
