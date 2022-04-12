@@ -39,7 +39,8 @@
 
 -   Reduce, Map…
 
-    [SOLUTION]()
+    [SOLUTION IMPLEMENTATION OF REDUCE](https://github.com/Arman0701/JS-practice-questions/blob/main/Required_Tasks/fakeReduce.js)
+    [SOLUTION IMPLEMENTATION OF MAP](https://github.com/Arman0701/JS-practice-questions/blob/main/Required_Tasks/fakeMap.js)
 
 -   Write a function which will remove all repeated items of array.
 
